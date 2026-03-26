@@ -13,5 +13,5 @@ logging.basicConfig(
 logger = logging.getLogger("main.py")
 
 while True:
-    logger.info("Hello World v1.0.0")
+    logger.info("Hello World v1.0.1")
     time.sleep(10)
